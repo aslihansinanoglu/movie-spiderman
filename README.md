@@ -1,7 +1,9 @@
 # Movie Spiderman
 
 
-A simple and visually appealing Spiderman Movie webpage created using HTML and CSS. This project showcases how to build a responsive movie-themed webpage using modern web development techniques. 
+A simple and visually appealing Spiderman Movie webpage created using HTML and CSS.
+
+This project showcases how to build a responsive movie-themed webpage using modern web development techniques. 
 
 Perfect for beginners to learn the basics of HTML and CSS.
 
