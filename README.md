@@ -28,7 +28,7 @@ Perfect for beginners to learn the basics of HTML and CSS.
 # Screen recording
 
 
-A preview of my Movie Spiderman project is included in the gift below.
+A preview of my Movie Spiderman project is included in the gif below.
 ![Movie Spiderman](https://github.com/user-attachments/assets/6bd839c8-b0d0-422c-86fa-f1fed297115b)
 
 King Regards.
